@@ -9,4 +9,4 @@ const HeaderTitle = () => {
 }
 
 
-export default HeaderTitle
+export default HeaderTitle;
